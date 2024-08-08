@@ -9,6 +9,7 @@ Free flow biometric identity across airports integrated with Gates
 ------------------------------------------------------------------
 
 
+# Time line 
 -First release of App > Expected September 15
 -First release of Aero Gate Server  >Expected September 30
 -First release of Aero Gate client >Expected Oct 15
