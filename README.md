@@ -7,7 +7,7 @@ Free flow biometric identity across airports integrated with Gates
 - Aeropass MVP Egate is built with SOC/USBCamera/Led/LCD/Servo/Power and operates < 12 volt currenty( Provision to add brush less motor 30-50 watts via relays.
 - Commerical gates like (Gunnebo/kaba can be integrated with Aeropass Server but considering this solution, would encourage to use custom built with components.
 - <b>Aero Pass gate client</b> to match the pax image with the enrollment token
-- <b>Aero Pass Dashboard</b> to check checkins and gate monitoring
+- <b>Aero Pass Dashboard</b> to monitor PAX  checkins and gate monitoring
 ------------------------------------------------------------------
 
 
