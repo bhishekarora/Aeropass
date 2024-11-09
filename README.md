@@ -11,7 +11,7 @@ Free flow biometric identity across airports integrated with Gates
 - <b>Aero Pass Dashboard</b> to monitor PAX  checkins and gate monitoring
 ------------------------------------------------------------------
 
-
+![](/modules.png)
 # Time line 
 - First release of App > Expected Oct 30
 - First release of Aero Pass Server  >Expected Oct 30
