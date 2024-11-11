@@ -14,7 +14,7 @@ Free flow biometric identity across airports integrated with Gates
 ![](/modules.png)
 
 # Product links
-- Aeropass Server [https://github.com/bhishekarora/AeroPassServer](https://github.com/bhishekarora/AeroPassServer)
+- Aeropass Server [https://github.com/bhishekarora/AeroPass-Server](https://github.com/bhishekarora/AeroPass-Server)
 - Aeropass Gate Controller [https://github.com/bhishekarora/AeroPass-GateController](https://github.com/bhishekarora/AeroPass-GateController)
 # Time line 
 - First release of App > Completed
