@@ -26,6 +26,7 @@ Free flow biometric identity across airports integrated with Gates
 - Frame optimization and Security compliance of solution  >Expected Dec 30 2024
 - MVP Egate hardware assemble and construction > Completed
 - Commerical Gate integrations > expected Jan 30  2025
+- Frame optimzation and multi session handling > Expected Jan 15 2025
 - Full Release 15 Feb 2025 
 
 
